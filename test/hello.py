@@ -1,4 +1,5 @@
 from time import sleep
 
-print('hello')
-sleep(20)
+def hello():
+	print('hello')
+	sleep(20)
